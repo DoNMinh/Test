@@ -1,9 +1,9 @@
 package Java;
 
-public class ledinhvu {
+public class DoNMinh {
 
     public static void main(String[] args) {
-        System.out.println("ToilaVu");
+        System.out.println("ToilaMinh!");
     
     }
 }

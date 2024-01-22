@@ -1,4 +1,4 @@
-package Java;
+package BaiThucHanh;
 
 public class DoNMinh {
 
